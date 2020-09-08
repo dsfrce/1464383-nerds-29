@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [D. B.](https://up.htmlacademy.ru/htmlcss/29/user/1464383).
-* Наставник: [Оксана Сергеева].
+* Наставник: [Оксана Сергеева](https://htmlacademy.ru/profile/oksana).
 
 ---
 
